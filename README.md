@@ -1,6 +1,6 @@
-# my-project
+# nuxtjs electron test demo
 
-> Nuxt + Electron
+> original template github link: https://github.com/nuxt-community/electron-template
 
 ## Build Setup
 
